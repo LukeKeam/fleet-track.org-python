@@ -1,7 +1,7 @@
 import requests
 
 """
-Please go to fleet-track.org to get your free token and auth_user id
+Please go to https://fleet-track.org to get your free token and auth_user id
 """
 def post_to_server():
     try:
