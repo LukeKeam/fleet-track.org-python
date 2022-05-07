@@ -1,5 +1,8 @@
 import requests
 
+"""
+Please go to fleet-track.org to get your free token and auth_user id
+"""
 def post_to_server():
     try:
         token = "0000000000000000000000000000"  # fleet-track.org token 
